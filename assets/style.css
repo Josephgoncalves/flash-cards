@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap');
 
 :root {
-    --cor-fundo: #00f4bf;
-    --cor-texto-frente: green;
+    --cor-fundo: #000000;
+    --cor-texto-frente: rgb(255, 255, 255);
     --cor-fundo-tema: white;
-    --cor-borda: blue;
+    --cor-borda: rgb(255, 255, 255);
 
 }
 
 body {
-    background: url(https://wallpapers.com/images/hd/universe-pictures-fi94jh9y6thxl3ji.jpg);
+    background-image: image-set();
     font-family: "Sofadi One", system-ui;
 }
 
@@ -28,7 +28,7 @@ body {
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
     border-radius: 20px;
-    border: purple solid 3px;
+    border: rgb(253, 253, 253) solid 3px;
 }
 
 .cartao__conteudo {

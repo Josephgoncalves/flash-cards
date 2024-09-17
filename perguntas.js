@@ -45,6 +45,39 @@ criaCartao(
     'Armazenar e transmitir informações genéticas.'
 )
 criaCartao(
+    'Geografia',
+    'Qual país é conhecido como "Terra do Sol Nascente?',
+    'Japão'
+)
+criaCartao(
+    'Artes',
+    'Quem pintou a Obra De Arte "A Noite Estrelada?',
+    'Vicent Van Gogh'
+)
+
+criaCartao(
+    'Artes',
+    'Quem é o autor da obra "A Última Ceia"?',
+    'Leonardo da Vinci'
+)
+
+criaCartao(
+    'Química',
+    'Qual é a fórmula química do cloreto de sódio??',
+    'NaCl'
+)
+
+criaCartao(
+    'Física',
+    'Qual é a unidade básica da vida?',
+    'A célula'
+)
+criaCartao(
+    'Física',
+    'Qual é a função do DNA?',
+    'Armazenar e transmitir informações genéticas.'
+)
+criaCartao(
     'Física',
     'Por qual descoberta Albert Einstein ganhou o prêmio nobel de física?',
     'Efeito fotoelétrico'
