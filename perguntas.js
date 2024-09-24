@@ -78,8 +78,62 @@ criaCartao(
     'Armazenar e transmitir informações genéticas.'
 )
 criaCartao(
-    'Física',
-    'Por qual descoberta Albert Einstein ganhou o prêmio nobel de física?',
-    'Efeito fotoelétrico'
+    'Ciência',
+    'Qual é a diferença entre massa e peso??',
+    'Massa é a quantidade de matéria em um objeto, enquanto peso é a força com que a gravidade atrai esse objeto.'
 )
-
+criaCartao(
+    'História',
+    'O que foi o Império Romano? ?',
+    'Um vasto império que dominou a maior parte da Europa, Norte da África e partes do Oriente Médio por vários séculos.'
+)
+criaCartao(
+    'cultura',
+    ' O que é o Renascimento?',
+    ' Um movimento cultural e artístico que floresceu na Europa entre os séculos 14 e 17, caracterizado pelo interesse na antiguidade clássica.'
+)
+criaCartao(
+    'entretenimento',
+    'Qual é o filme mais lucrativo da história?',
+    '"Avatar" (até o meu conhecimento).'
+)
+criaCartao(
+    'entretenimento',
+    'Quem é o criador da série "Game of Thrones"?',
+    ' George R. R. Martin.'
+)
+criaCartao(
+    'Tecnologia',
+    ' O que é inteligência artificial? ',
+    '  A capacidade de uma máquina de imitar funções cognitivas humanas, como aprendizado e resolução de problemas.'
+)
+criaCartao(
+    'Esportes',
+    'Qual é o esporte mais popular do mundo? ',
+    'Futebol'
+)
+criaCartao(
+    'saúde',
+    ' O que é a vacina?',
+    'Uma substância que estimula o sistema imunológico a produzir proteção contra doenças.'
+)
+criaCartao(
+    'Esportes',
+    ' Quantos jogadores tem um time de basquete? ',
+    'Cada time tem cinco jogadores em quadra durante o jogo.'
+)
+criaCartao(
+    'Música',
+    ' Quem é conhecido como o "Rei do Rock"? ',
+    'Elvis Presley'
+)
+criaCartao(
+    'Música',
+    ' O que é uma sinfonia?',
+    'Uma composição musical orquestral, geralmente em vários movimentos.'
+)
+criaCartao(
+    'Cinema',
+    'Quem dirigiu "Pulp Fiction"? ',
+    'Tarantino'
+)
