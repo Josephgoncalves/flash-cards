@@ -137,3 +137,52 @@ criaCartao(
     'Quem dirigiu "Pulp Fiction"? ',
     'Tarantino'
 )
+criaCartao(
+    'Esportes',
+    'Quem é considerado o "Rei do Futebol"?',
+    'Pelé'
+)
+criaCartao(
+    'Geografia',
+    'Qual é o rio mais longo do mundo?',
+    'Rio Nilo'
+)
+criaCartao(
+    'Curiosidades',
+    'Qual é o animal mais rápido do mundo?',
+    'Falcão-Peregrino'
+)
+criaCartao(
+    'Curiosidades',
+    'Qual é a língua mais falada do mundo?',
+    'Mandarim'
+)
+criaCartao(
+    'Curiosidades',
+    'Qual é o maior animal do planeta?',
+    'A Baleia Azul'
+)
+criaCartao('Filosofia',
+    ' Quem foi Sócrates?',
+    'Um filósofo grego conhecido por seu método de diálogo e busca pela verdade.'
+)
+criaCartao(
+    'Esportes',
+    'Qual é a distância de uma maratona?',
+    '42,195 km.'
+)
+criaCartao(
+    'Saúde',
+    ' O que é hipertensão?',
+    ' Pressão arterial elevada.'
+)
+criaCartao(
+    'Tecnologia',
+    ' O que é o "cloud computing"?',
+    'O uso de servidores remotos para armazenar e processar dados.'
+)
+criaCartao(
+    'Cultura',
+    'Qual é a dança nacional do Brasil?',
+    'Samba'
+)
