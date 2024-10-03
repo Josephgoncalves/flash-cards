@@ -27,7 +27,7 @@ body {
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
-    border-radius: 20px;
+    border-radius: px;
     border: rgb(253, 253, 253) solid 3px;
 }
 

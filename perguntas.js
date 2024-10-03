@@ -181,8 +181,109 @@ criaCartao(
     ' O que é o "cloud computing"?',
     'O uso de servidores remotos para armazenar e processar dados.'
 )
+
 criaCartao(
-    'Cultura',
-    'Qual é a dança nacional do Brasil?',
-    'Samba'
+    'Curiosidades',
+    ' Qual é a árvore mais alta do mundo?"',
+    'A sequoia.'
+)
+criaCartao(
+    'Curiosidades',
+    ' Qual país sediou as Olimpíadas de 2016',
+    'Brasil'
+)
+criaCartao(
+    'Curiosidades',
+    ' O que é a Via Láctea',
+    'galáxia onde reside o nosso sistema solar'
+)
+criaCartao(
+    'Astronomia',
+    '  O que são exoplanetas',
+    'Planetas que orbitam estrelas fora do nosso sistema solar'
+)
+criaCartao(
+    'Tecnologia',
+    ' O que são energias renováveis ',
+    'Fontes de energia que se regeneram naturalmente'
+)
+criaCartao(
+    'Tecnologia',
+    ' O que é antropologia?',
+    'Estudo da humanidade.'
+)
+criaCartao(
+    'Tecnologia',
+    ' O que é hipertensão?',
+    'Pressão arterial alta.'
+)
+criaCartao(
+    'Tecnologia',
+    ' O que são probióticos?',
+    'Bactérias benéficas para o intestino.'
+)
+criaCartao(
+    'Tecnologia',
+    ' O que é o MMA?',
+    ' Artes marciais mistas.'
+)
+criaCartao(
+    'Tecnologia',
+    ' O que é a Grande Muralha da China?',
+    'Estrutura defensiva histórica.'
+)
+criaCartao(
+    'Tecnologia',
+    ' O que é um monolito?',
+    'Rocha única e vertical'
+)
+criaCartao(
+    'Tecnologia',
+    ' O que é hipertensão?',
+    'Pressão arterial alta.'
+)
+criaCartao(
+    'Tecnologia',
+    ' O que é hipertensão?',
+    'Pressão arterial alta.'
+)
+criaCartao(
+    'Tecnologia',
+    ' O que é hipertensão?',
+    'Pressão arterial alta.'
+)
+criaCartao(
+    'Tecnologia',
+    ' O que é hipertensão?',
+    'Pressão arterial alta.'
+)
+criaCartao(
+    'Tecnologia',
+    ' O que é hipertensão?',
+    'Pressão arterial alta.'
+)
+criaCartao(
+    'Tecnologia',
+    ' O que é hipertensão?',
+    'Pressão arterial alta.'
+)
+criaCartao(
+    'Tecnologia',
+    ' O que é hipertensão?',
+    'Pressão arterial alta.'
+)
+criaCartao(
+    'Tecnologia',
+    ' O que é hipertensão?',
+    'Pressão arterial alta.'
+)
+criaCartao(
+    'Tecnologia',
+    ' O que é hipertensão?',
+    'Pressão arterial alta.'
+)
+criaCartao(
+    'Tecnologia',
+    ' O que é hipertensão?',
+    'Pressão arterial alta.'
 )
