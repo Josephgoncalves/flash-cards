@@ -238,52 +238,55 @@ criaCartao(
     'Rocha única e vertical'
 )
 criaCartao(
-    'Tecnologia',
-    ' O que é hipertensão?',
-    'Pressão arterial alta.'
+    'Ciência',
+    'O que aconteceria se a gravidade fosse de repente reduzida pela metade?',
+    ' As pessoas começariam a flutuar como balões! Imagina só a dificuldade para andar e a diversão de fazer acrobacias no ar!'
+)
+criaCartao(
+    'Ciência',
+    'O que aconteceria se a água fosse feita de um elemento diferente?',
+    'Se a água fosse feita de, digamos, gás hélio, poderíamos flutuar em vez de nadar! Imagine como seriam os esportes aquáticos!'
+)
+criaCartao(
+    ' Natureza',
+    'Se as plantas pudessem se mover, como isso mudaria o ambiente?',
+    'As flores poderiam se deslocar para seguir o sol, e as árvores poderiam se reunir em "conferências" para discutir a melhor forma de se proteger contra pragas!'
+)
+criaCartao(
+    'Viagem',
+    'Como seria um país onde todas as leis fossem baseadas em contos de fadas?',
+    'A magia seria permitida, e os castelos seriam as residências oficiais. Poderíamos ter festivais de príncipes e princesas todos os meses!'
+)
+criaCartao(
+    'Educação',
+    ' Como seria um sistema educacional baseado em jogos?',
+    ' Aprender seria como jogar um RPG, com níveis de experiência e conquistas em cada disciplina!'
+)
+criaCartao(
+    'Moda',
+   'E se a moda fosse influenciada por animais?',
+    'As passarelas teriam desfiles inspirados em penas, escamas e pelagens, trazendo a natureza para a alta-costura!'
+)
+criaCartao(
+    'Espaço',
+    ' E se pudéssemos colonizar Marte e ele tivesse uma atmosfera similar à da Terra?',
+    'A vida em Marte incluiria festas interplanetárias e uma nova cultura que mesclaria o melhor da Terra com o novo mundo!'
+)
+criaCartao(
+    'musica',
+    'O que aconteceria se as músicas pudessem evoluir ao longo do tempo?',
+    'Cada canção teria sua própria história, mudando conforme a cultura e a tecnologia avançassem!'
 )
 criaCartao(
     'Tecnologia',
-    ' O que é hipertensão?',
-    'Pressão arterial alta.'
+    ' O que aconteceria se as redes sociais fossem uma forma de arte?',
+    'Cada postagem seria uma obra-prima, e as interações se tornariam performances coletivas de criatividade!'
 )
 criaCartao(
-    'Tecnologia',
-    ' O que é hipertensão?',
-    'Pressão arterial alta.'
+    'Economia',
+    ' E se o dinheiro fosse substituído por habilidades?',
+    'As pessoas trocariam conhecimentos e talentos, criando uma economia baseada em colaboração!'
 )
 criaCartao(
-    'Tecnologia',
-    ' O que é hipertensão?',
-    'Pressão arterial alta.'
-)
-criaCartao(
-    'Tecnologia',
-    ' O que é hipertensão?',
-    'Pressão arterial alta.'
-)
-criaCartao(
-    'Tecnologia',
-    ' O que é hipertensão?',
-    'Pressão arterial alta.'
-)
-criaCartao(
-    'Tecnologia',
-    ' O que é hipertensão?',
-    'Pressão arterial alta.'
-)
-criaCartao(
-    'Tecnologia',
-    ' O que é hipertensão?',
-    'Pressão arterial alta.'
-)
-criaCartao(
-    'Tecnologia',
-    ' O que é hipertensão?',
-    'Pressão arterial alta.'
-)
-criaCartao(
-    'Tecnologia',
-    ' O que é hipertensão?',
-    'Pressão arterial alta.'
+    'Arte'
 )
